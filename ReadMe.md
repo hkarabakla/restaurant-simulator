@@ -14,4 +14,4 @@ Burada önemli olan gerçek hayatta olduğu gibi masalarda oturan müşterilerin
 Ödev tamamen java dilinde multithread özelliğinin kullanılma yeteneğini ölçmeye yöneliktir. Her bir müşteriyi, garsonu ve şefi
 birer thred olarak düşünebilirsiniz.
 
-Ödev teslim tarihi 16 Ocak saat 00:00.
+
